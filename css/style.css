@@ -11,3 +11,24 @@ li {
     display: inline;
     border: 2px solid gray;
 }
+
+textarea {
+    height: 90%;
+    width: 100%;
+}
+
+.pages {
+    padding-top: 2vh;
+    display: flex;
+    height: 80vh;
+}
+
+.left-page, .right-page {
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.right-page {
+    text-align: right;
+}
