@@ -1,0 +1,13 @@
+html, body {
+    background: lightgray;
+}
+
+h1, ul {
+    text-align: center;
+}
+
+li {
+    padding: 3px;
+    display: inline;
+    border: 2px solid gray;
+}
